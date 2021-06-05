@@ -1,0 +1,13 @@
+canvas{
+  width:400px;
+  height:300px;
+  border: 1px solid #c3c3c3c3;
+}
+#l{
+  background-color: black;
+  color: lime;
+}
+#y{
+  background-color: black;
+  color: yellow;
+}
